@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.section{
+    background-image: url('IMAGE\ \(10\).png');
+    padding: 184px 0;
+}
+.bg_107{
+    margin-top: 107px;
+}
+.mt_77{
+    margin-top: 77px;
+}
+.h3_title{
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 20px;
+    /* identical to box height, or 111% */
+    
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    
+    color: #676770;
+}
+.fz-25{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 20px;
+    /* identical to box height, or 111% */
+    
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
